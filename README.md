@@ -1,5 +1,5 @@
 # Arduino-beginner-mood-lamp
-❮img src="images/https://github.com/fatiuhafees/Arduino_Introduction_to_RGBs_and_IR_reciver/blob/ec877865874518a25d39799e1775e3844a426781/Mood%20Lamp%202.jpg" width="100" ❯
+❮img src="images/Mood@Lamp@2.jpg" width="100" ❯
 ![image alt](https://github.com/fatiuhafees/Arduino_Introduction_to_RGBs_and_IR_reciver/blob/ec877865874518a25d39799e1775e3844a426781/Mood%20Lamp%202.jpg)
 A user firendly introduction to RGBs and IR reciver by making a mood lamop. We are assuming that you have met arduino before. 
 
