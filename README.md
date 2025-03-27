@@ -1,4 +1,5 @@
 # Arduino-beginner-mood-lamp
+![image alt]((https://github.com/fatiuhafees/Arduino_Introduction_to_RGBs_and_IR_reciver/blob/870f4c86551a1de8fb89734b9006f37448823e98/Block%20diagram.PNG))
 A user firendly introduction to RGBs and IR reciver by making a mood lamop. We are assuming that you have met arduino before. 
 
 ## Installation 
@@ -19,9 +20,3 @@ A user firendly introduction to RGBs and IR reciver by making a mood lamop. We a
 |3x groove cables|https://www.seeedstudio.com/Grove-Universal-4-Pin-Buckled-5cm-Cable-5-PCs-Pack.html?qid=eyJjX3NlYXJjaF9xdWVyeSI6IkNhYmxlIiwiY19zZWFyY2hfcmVzdWx0X3BvcyI6MjMsImNfdG90YWxfcmVzdWx0cyI6NTUsImNfc2VhcmNoX3Jlc3VsdF90eXBlIjoiUHJvZHVjdCIsImNfc2VhcmNoX2ZpbHRlcnMiOiJzdG9yZUNvZGU6W3JldGFpbGVyXSAmJiBxdWFudGl0eV9hbmRfc3RvY2tfc3RhdHVzOlsxXSJ9|
 |9V battery|https://www.rapidonline.com/gp-gppvcf9vg014-greencell-zinc-chloride-9v-pp3-battery-single-18-1058|
 |Toggle switch|https://onecall.farnell.com/alcoswitch-te-connectivity/2-1825137-6/toggle-switch-spdt-5a-120vac-panel/dp/3397746|
-
-## Block diagram 
-![image alt]((https://github.com/fatiuhafees/Arduino_Introduction_to_RGBs_and_IR_reciver/blob/870f4c86551a1de8fb89734b9006f37448823e98/Block%20diagram.PNG))
-## Referance
-Datasheet
-Documentation
