@@ -21,7 +21,7 @@ A user firendly introduction to RGBs and IR reciver by making a mood lamop. We a
 |Toggle switch|https://onecall.farnell.com/alcoswitch-te-connectivity/2-1825137-6/toggle-switch-spdt-5a-120vac-panel/dp/3397746|
 
 ## Block diagram 
-
+![image alt]((https://github.com/fatiuhafees/Arduino_Introduction_to_RGBs_and_IR_reciver/blob/870f4c86551a1de8fb89734b9006f37448823e98/Block%20diagram.PNG))
 ## Referance
 Datasheet
 Documentation
