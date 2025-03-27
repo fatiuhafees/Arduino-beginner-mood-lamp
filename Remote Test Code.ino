@@ -1,7 +1,5 @@
 /*
-17/02/2025
-Used as mood lamp system code template so..
-Just copy and past into a new arduino skecth. 
+17/02/2025 
 */ 
 
 #include <IRremote.h> //version 2.6.1. Go to tool -> manage library -> search for: IRremote -> install version: 2.6.1
