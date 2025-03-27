@@ -1,6 +1,6 @@
 # Arduino-beginner-mood-lamp
 ![image alt](https://github.com/fatiuhafees/Arduino_Introduction_to_RGBs_and_IR_reciver/blob/ec877865874518a25d39799e1775e3844a426781/Mood%20Lamp%202.jpg)
-A user firendly introduction to RGBs and IR reciver. We are assuming that you have met arduino before. 
+A user firendly introduction to RGBs and IR reciver. Assuming that you have met arduino before. 
 
 ## Installation 
 ```bash
